@@ -1,0 +1,6 @@
+{
+  "name": "E-Learning HTML & CSS untuk SMP",
+  "description": "Aplikasi belajar HTML & CSS interaktif untuk siswa SMP/MTs dengan game dan misi coding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
